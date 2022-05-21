@@ -1,8 +1,9 @@
-class siddharth{
-
+class test{
 public static void main(String args[]){
 
-System.out.println("hello");
+String s = "Im siddharth";
+System.out.println("hello world"+s);
+
 
 }
 }
